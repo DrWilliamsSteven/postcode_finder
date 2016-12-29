@@ -1,0 +1,34 @@
+#map {
+        height: 400px;
+        width: 800px;
+        margin: 20px auto;
+       
+      }
+      
+
+html, body {
+        height: 100%;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+      }
+
+.header {
+    width: 1000px;
+    height: 75px;
+    background-color: floralwhite;
+    color: darkred;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.main__form{
+    margin: 20px auto;
+    
+}
+
+.alert {
+    width: 1000px;
+    margin: 20px auto;
+}
+
